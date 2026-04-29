@@ -111,16 +111,17 @@
 
 .jb-logo__img {
   display: block;
-  height: 60px;
+  height: 72px;
   width: auto;
-  max-width: min(300px, 55vw);
+  max-width: min(360px, 62vw);
   object-fit: contain;
   object-position: left center;
+  mix-blend-mode: screen;
 }
 
 .jb-logo--footer .jb-logo__img {
-  height: 72px;
-  max-width: 330px;
+  height: 90px;
+  max-width: 420px;
 }
 
 .jb-nav {
